@@ -4,11 +4,12 @@ body{
 main{
     flex-direction: row;
     flex: auto;
-    overflow-y: auto;
 }
 main article{
     flex: 2;
+    overflow-y: auto;
 }
 main aside{
     flex: 1;
+    overflow-y: auto;
 }
