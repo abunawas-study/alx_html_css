@@ -1,0 +1,14 @@
+body{
+    display: flex;
+}
+main{
+    flex-direction: row;
+    flex: auto;
+    overflow-y: auto;
+}
+main article{
+    flex: 2;
+}
+main aside{
+    flex: 1;
+}
