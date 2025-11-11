@@ -96,3 +96,27 @@ nav ul li a:hover {
 #awards h3, #awards p{
     text-align: center;
 }
+#testimonial-sec{
+    background-color: #C271FF;
+    height: 220px;
+    margin-top: -20px;
+}
+#testimonial-sec img{
+    width: 130px;
+    height: 130px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+#testimonial-sec div{
+    align-items: center;
+    gap: 30px;
+    padding: 20px 100px;
+}
+.testimonial-content{
+    font-size: 15px;
+    font-family: sans-serif;
+    margin-left: 320px;
+    margin-top: -150px;
+    justify-content: center;
+    color: white;
+}
